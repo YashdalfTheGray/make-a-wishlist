@@ -1,0 +1,29 @@
+{
+  "name": "make-a-wishlist",
+  "version": "1.0.0",
+  "description": "A simple wishlist app, around the holiday season to help me learn about Svelte",
+  "main": "index.html",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashdalfTheGray/make-a-wishlist.git"
+  },
+  "author": "Yash Kulshrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YashdalfTheGray/make-a-wishlist/issues"
+  },
+  "homepage": "https://github.com/YashdalfTheGray/make-a-wishlist#readme",
+  "devDependencies": {
+    "firebase": "^9.3.0",
+    "prettier": "^2.4.1",
+    "sass": "^1.43.4",
+    "ts-node": "^10.4.0",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.3.0",
+    "typescript": "^4.4.4"
+  }
+}
